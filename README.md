@@ -1,8 +1,18 @@
-# Nosso Instagram : *[SynerCodeBr](https://www.instagram.com/synercodebr/)*
-
 # Repositório de Códigos - Cursos de Programação em C
 
 Bem-vindo ao repositório oficial dos códigos desenvolvidos durante os cursos de C, desde o básico até o avançado!
+
+---
+
+## 📲 Conecte-se Conosco! 📢 Contato
+
+Siga nossas redes para ficar por dentro das novidades, dicas e promoções de cursos — especialmente no **LinkedIn**, onde postamos ofertas exclusivas! 🚀✨
+
+**Clique abaixo para ir para nossas redes.**
+
+📸 : [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/synercodebr/)  
+
+💼 : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/synercodebr/)
 
 ---
 
@@ -60,18 +70,6 @@ Básico: conceitos iniciais, variáveis, controle de fluxo, funções, arrays e 
 Intermediário: estruturas, manipulação de arquivos, alocação dinâmica, e técnicas avançadas.
 
 Avançado: programação em nível de sistema, estruturas de dados, processos, sinais, e muito mais.
-
----
-
-## 📢 Contato
-
-Se tiver dúvidas, sugestões ou quiser contribuir, fique à vontade para abrir issues ou enviar pull requests.
-
-Siga minhas redes para novidades sobre cursos e programação:
-
-Instagram: CLICK -> [SynerCodeBr](https://www.instagram.com/synercodebr/)
-
-GitHub: [SynerCodeBr](https://github.com/SynerCode)
 
 ---
 
